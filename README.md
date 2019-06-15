@@ -1,3 +1,3 @@
-# angular-jb54kr
+# Angular-first-project
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/angular-jb54kr)
+Source code: [Edit on StackBlitz ⚡️](https://stackblitz.com/edit/web-angular-f1proy-kgc)
